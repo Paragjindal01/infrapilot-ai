@@ -26,6 +26,8 @@ The PowerOps workflow companion is available at `/lab/powerops` on the same orig
 
 [Incident replay data and storage](docs/projects/incident-replay.md)
 
+The workbench uses the final Higgsfield portfolio masthead (`abf3f80`) with local poster art and fonts. The artwork depicts fictional scenes. [Font licenses](public/fonts/)
+
 ## Architecture
 
 ```mermaid

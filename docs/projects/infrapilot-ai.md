@@ -1,6 +1,8 @@
 # InfraPilot AI
 
-[Conceptual cover artwork](../artwork/infrapilot-ai.webp)
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
+[Conceptual cover artwork](../artwork.webp)
 
 InfraPilot turns natural-language infrastructure questions into validated, read-only analytics over a fictional facility. Select the critical scenario to see related host, accelerator, thermal and power alerts in one report.
 
